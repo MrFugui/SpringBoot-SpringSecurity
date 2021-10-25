@@ -1,0 +1,4 @@
+# DataSource Config
+spring:
+  profiles:
+    active: dev
